@@ -1,0 +1,16 @@
+C:\Users\hasan\source\repos\Pizzacı uygulaması\Pizzacı uygulaması\bin\Debug\net8.0-windows\Pizzacı uygulaması.exe
+C:\Users\hasan\source\repos\Pizzacı uygulaması\Pizzacı uygulaması\bin\Debug\net8.0-windows\Pizzacı uygulaması.deps.json
+C:\Users\hasan\source\repos\Pizzacı uygulaması\Pizzacı uygulaması\bin\Debug\net8.0-windows\Pizzacı uygulaması.runtimeconfig.json
+C:\Users\hasan\source\repos\Pizzacı uygulaması\Pizzacı uygulaması\bin\Debug\net8.0-windows\Pizzacı uygulaması.dll
+C:\Users\hasan\source\repos\Pizzacı uygulaması\Pizzacı uygulaması\bin\Debug\net8.0-windows\Pizzacı uygulaması.pdb
+C:\Users\hasan\source\repos\Pizzacı uygulaması\Pizzacı uygulaması\obj\Debug\net8.0-windows\Pizzacı uygulaması.csproj.GenerateResource.cache
+C:\Users\hasan\source\repos\Pizzacı uygulaması\Pizzacı uygulaması\obj\Debug\net8.0-windows\Pizzacı uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\Pizzacı uygulaması\Pizzacı uygulaması\obj\Debug\net8.0-windows\Pizzacı uygulaması.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\Pizzacı uygulaması\Pizzacı uygulaması\obj\Debug\net8.0-windows\Pizzacı uygulaması.AssemblyInfo.cs
+C:\Users\hasan\source\repos\Pizzacı uygulaması\Pizzacı uygulaması\obj\Debug\net8.0-windows\Pizzacı uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\Pizzacı uygulaması\Pizzacı uygulaması\obj\Debug\net8.0-windows\Pizzacı uygulaması.dll
+C:\Users\hasan\source\repos\Pizzacı uygulaması\Pizzacı uygulaması\obj\Debug\net8.0-windows\refint\Pizzacı uygulaması.dll
+C:\Users\hasan\source\repos\Pizzacı uygulaması\Pizzacı uygulaması\obj\Debug\net8.0-windows\Pizzacı uygulaması.pdb
+C:\Users\hasan\source\repos\Pizzacı uygulaması\Pizzacı uygulaması\obj\Debug\net8.0-windows\Pizzacı uygulaması.genruntimeconfig.cache
+C:\Users\hasan\source\repos\Pizzacı uygulaması\Pizzacı uygulaması\obj\Debug\net8.0-windows\ref\Pizzacı uygulaması.dll
+C:\Users\hasan\source\repos\Pizzacı uygulaması\Pizzacı uygulaması\obj\Debug\net8.0-windows\Pizzacı_uygulaması.Pizzacım.resources
